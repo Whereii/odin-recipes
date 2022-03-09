@@ -1,0 +1,46 @@
+* {
+    background-color: #ffe9e3;
+}
+
+h1 {
+    text-align: center;
+    background-color: #c4c1e0;
+    margin: 0px 20%;
+    font-size: 100px;
+}
+
+.entree {
+    float: left;
+    width: 30%;
+    height: 500px;
+}
+
+.desert {
+    margin: auto;
+    width: 30%;
+    height: 500px;
+}
+
+.main-course {
+    float: right;
+    margin: auto;
+    width: 30%;
+    height: 500px;
+}
+
+.dishes {
+    text-align: center;
+}
+
+div img {
+    width: 80%;
+    height: auto;
+}
+
+.recipe-images {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: auto;
+
+}
